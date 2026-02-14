@@ -1,39 +1,6 @@
 import { ArrowUpRight, Github } from "lucide-react";
 import { AnimatedBorderButton } from "@/components/AnimatedBorderButton";
-const projects = [
-  {
-    title: "AI BlogWriter & Scheduler",
-    description:
-      "This Shopify application empowers merchants to automatically generate high-quality, SEO-optimized blog articles using their store’s product data. Designed for stores of all sizes, the app streamlines content marketing by transforming product information into engaging, search-friendly blog posts that drive organic traffic and improve search rankings.",
-    image: "/projects/ai-blog-writer/generation-step.png",
-    tags: [
-      "React",
-      "Typescript",
-      "NodeJS",
-      "AWS CDK",
-      "Amazon Bedrock",
-      "ExpressJS",
-      "Amazon ECS",
-      "AWS Amplify",
-    ],
-    github: "https://github.com/ibrarmunircoder/AI-blog-writer-scheduler",
-  },
-  {
-    title: "AWS Observability Setup Using CloudWatch and Terraform",
-    description:
-      "This project demonstrates how to implement end-to-end observability for a serverless AWS application using CloudWatch and Terraform. It leverages built-in Lambda metrics, custom log-based metrics, dashboards, and alarms to provide real-time insights into system performance and behavior.",
-    image: "/projects/cloudwatch-terraform-observability/diagram.png",
-    tags: [
-      "CloudWatch",
-      "AWS Lambda",
-      "Amazon S3",
-      "Terraform",
-      "Observability",
-    ],
-    github:
-      "https://github.com/ibrarmunircoder/cloudwatch-observability-terraform-project",
-  },
-];
+import projects from "@/data/projects.json";
 
 export const Projects = () => {
   return (

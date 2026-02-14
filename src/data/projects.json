@@ -1,0 +1,67 @@
+[
+  {
+    "title": "AI BlogWriter & Scheduler",
+    "description": "This Shopify application empowers merchants to automatically generate high-quality, SEO-optimized blog articles using their store’s product data. Designed for stores of all sizes, the app streamlines content marketing by transforming product information into engaging, search-friendly blog posts that drive organic traffic and improve search rankings.",
+    "link": "https://apps.shopify.com/blog-writer-scheduler",
+    "image": "/projects/ai-blog-writer/generation-step.png",
+    "tags": [
+      "React",
+      "Typescript",
+      "NodeJS",
+      "AWS CDK",
+      "Amazon Bedrock",
+      "ExpressJS",
+      "Amazon ECS",
+      "AWS Amplify"
+    ],
+    "github": "https://github.com/ibrarmunircoder/AI-blog-writer-scheduler"
+  },
+  {
+    "title": "AWS Observability Setup Using CloudWatch and Terraform",
+    "description": "This project demonstrates how to implement end-to-end observability for a serverless AWS application using CloudWatch and Terraform. It leverages built-in Lambda metrics, custom log-based metrics, dashboards, and alarms to provide real-time insights into system performance and behavior.",
+    "image": "/projects/cloudwatch-terraform-observability/diagram.png",
+    "tags": [
+      "CloudWatch",
+      "AWS Lambda",
+      "Amazon S3",
+      "Terraform",
+      "Observability"
+    ],
+    "github": "https://github.com/ibrarmunircoder/cloudwatch-observability-terraform-project"
+  },
+  {
+    "title": "Production-Ready React App on AWS using Terraform",
+    "description": "This project demonstrates the end-to-end deployment of a production-ready React application on AWS using Terraform as Infrastructure as Code. The application is hosted on Amazon S3 for static asset storage and served globally through Amazon CloudFront for low-latency content delivery and HTTPS support. Terraform is used to provision and manage all AWS resources in a repeatable, version-controlled manner, showcasing best practices in cloud infrastructure automation, scalability, and security. This project highlights practical DevOps skills, including AWS architecture design, infrastructure automation, and modern frontend deployment workflows.",
+    "image": "/projects/static-website-hosting/app-screenshot.png",
+    "tags": [
+      "Route53",
+      "Amazon ACM",
+      "Amazon S3",
+      "Terraform",
+      "React",
+      "CloudFront"
+    ],
+    "github": "https://github.com/ibrarmunircoder/static-web-app-hosting-terraform-project"
+  },
+  {
+    "title": "VPC Peering across regions (Same Account) using Terraform",
+    "description": "This project demonstrates how to enable secure, private, cross-region communication between two isolated VPCs (Primary VPC and Secondary VPC) using VPC Peering and Terraform as Infrastructure as Code (IaC). A Jumpbox (bastion host) is used for secure administrative access, following AWS best practices by preventing direct SSH access to private EC2 instances.",
+    "image": "/projects/vpc-peering/diagram.png",
+    "tags": [
+      "Public Subnets",
+      "Private Subnets",
+      "Terraform",
+      "Amazon VPC",
+      "VPC Peering",
+      "Cross-region Peering"
+    ],
+    "github": "https://github.com/ibrarmunircoder/VPC-peering-terraform-project"
+  },
+  {
+    "title": "AWS Policy and Governance Setup Using Terraform",
+    "description": "This project demonstrates how to implement AWS security governance and compliance using Terraform. AWS Config is used to continuously record and evaluate AWS resource configurations against predefined compliance rules.",
+    "image": "/projects/aws-policy-governance/report.png",
+    "tags": ["AWS Config", "Governance", "Compliance", "S3", "Terraform"],
+    "github": "https://github.com/ibrarmunircoder/policy-governance-setup-terraform"
+  }
+]
