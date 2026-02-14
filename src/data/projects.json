@@ -63,5 +63,19 @@
     "image": "/projects/aws-policy-governance/report.png",
     "tags": ["AWS Config", "Governance", "Compliance", "S3", "Terraform"],
     "github": "https://github.com/ibrarmunircoder/policy-governance-setup-terraform"
+  },
+  {
+    "title": "AWS Video Streaming app with Imagekit",
+    "description": "This project demonstrates how to stream videos stored in Amazon S3 using ImageKit as a CDN and optimization layer. ImageKit supports multiple external storage origins, with S3 being one of them. This eliminates the need to store multiple processed versions of the same video while improving performance and scalability.",
+    "image": "/projects/video-streaming/diagram.png",
+    "tags": [
+      "Imagekit",
+      "React",
+      "Adaptive bitrate",
+      "streaming",
+      "S3",
+      "Terraform"
+    ],
+    "github": "https://github.com/ibrarmunircoder/aws-video-streaming-imagekit"
   }
 ]
