@@ -80,7 +80,7 @@ export const Skills = () => {
         <div className="flex flex-wrap justify-center gap-3 mb-10">
           {skillCategories.map((group, index) => (
             <button
-              key={index}
+              key={"tab" + index}
               onClick={() => setActiveTab(index)}
               className={`px-5 py-2 rounded-full border transition-all duration-300 text-sm md:text-base
                 ${
@@ -98,7 +98,7 @@ export const Skills = () => {
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 max-w-5xl mx-auto">
           {skillCategories[activeTab].skills.map((skill, index) => (
             <div
-              key={index}
+              key={"skill" + index}
               className="glass p-5 rounded-2xl border border-primary/30
               text-center hover:border-primary/50 transition-all duration-300"
             >

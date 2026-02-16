@@ -17,6 +17,24 @@
     "github": "https://github.com/ibrarmunircoder/AI-blog-writer-scheduler"
   },
   {
+    "title": "CoolioDev - Multi-Service Digital Business Platform",
+    "description": "This platform is a Proof of Concept (PoC) designed to deliver multiple digital services to clients through a unified, scalable system. It leverages a serverless architecture on AWS to provide a secure and highly scalable backend infrastructure, supporting a modern frontend application built with React and TypeScript. The platform combines CRM, invoicing, subscription billing, brand management, digital asset storage, proposal generation, secure password vault, and user management into a unified ecosystem.",
+    "image": "/projects/cooliodev/password.png",
+    "tags": [
+      "React",
+      "Typescript",
+      "NodeJS",
+      "Serverless Framework",
+      "Amazon Bedrock",
+      "AWS Appsync",
+      "AWS Lambda",
+      "Amazon Cognito",
+      "Amazon Dynamodb",
+      "AWS Amplify"
+    ],
+    "github": "https://github.com/ibrarmunircoder/cooliodev-multi-service-platform"
+  },
+  {
     "title": "AWS Observability Setup Using CloudWatch and Terraform",
     "description": "This project demonstrates how to implement end-to-end observability for a serverless AWS application using CloudWatch and Terraform. It leverages built-in Lambda metrics, custom log-based metrics, dashboards, and alarms to provide real-time insights into system performance and behavior.",
     "image": "/projects/cloudwatch-terraform-observability/diagram.png",
