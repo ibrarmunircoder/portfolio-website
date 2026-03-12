@@ -1,5 +1,21 @@
 [
   {
+    "title": "Go web application deployment on AWS ECS using terraform",
+    "description": "This project demonstrates how to design and deploy a production-ready cloud infrastructure for a Go web application using AWS and Terraform. The infrastructure follows cloud-native best practices including containerization, infrastructure as code, automated deployments, high availability, and secure secret management.",
+    "image": "/projects/go-goal-share-web-app/diagram.png",
+    "tags": [
+      "Github Actions",
+      "Terraform",
+      "GoLang",
+      "Shell Scripting",
+      "AWS CLI",
+      "Elastic Compute Service (ECS)",
+      "Elastic Container Registry (ECR)",
+      "Docker"
+    ],
+    "github": "https://github.com/ibrarmunircoder/goal-share-go-web-app"
+  },
+  {
     "title": "AI BlogWriter & Scheduler",
     "description": "This Shopify application empowers merchants to automatically generate high-quality, SEO-optimized blog articles using their store’s product data. Designed for stores of all sizes, the app streamlines content marketing by transforming product information into engaging, search-friendly blog posts that drive organic traffic and improve search rankings.",
     "link": "https://apps.shopify.com/blog-writer-scheduler",

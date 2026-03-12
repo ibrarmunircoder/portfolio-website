@@ -56,7 +56,7 @@ export const Hero = () => {
             <div className="animate-fade-in">
               <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass text-sm text-primary">
                 <span className="w-2 h-2 bg-primary rounded-full animate-pulse" />
-                <span>Software Engineer • Aspiring AWS Cloud Engineer</span>
+                <span>Software Engineer • AWS Cloud Engineer</span>
               </div>
             </div>
 
@@ -69,7 +69,7 @@ export const Hero = () => {
                 <br />
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                A software engineer based in Pakistan, with 5 years of
+                A software engineer based in Pakistan, with 5+ years of
                 experience building secure and scalable cloud-native web
                 applications by leveraging AWS services. Skilled in
                 Infrastructure as Code (AWS CDK, Serverless Framework), CI/CD

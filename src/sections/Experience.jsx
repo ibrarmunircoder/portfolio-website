@@ -1,7 +1,7 @@
 const experiences = [
   {
-    period: "April 2023 - December 2025",
-    role: "Senior Software Engineer",
+    period: "May 2023 - December 2025",
+    role: "Full Stack Engineer",
     company: "Cooliodev – California, US",
     achievements: [
       "Led client requirement gathering and technical consultations, improving client satisfaction scores by 80%",
