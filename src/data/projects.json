@@ -16,6 +16,13 @@
     "github": "https://github.com/ibrarmunircoder/goal-share-go-web-app"
   },
   {
+    "title": "Microservices application deployment on Kubernetes with Helm",
+    "description": "Online Boutique is a cloud-first microservices demo application. The application is a web-based e-commerce app where users can browse items, add them to the cart, and purchase them.This project demonstrates how to deploy and run a microservices-based application on Kubernetes using production and security best practices.",
+    "image": "/projects/microservice-k8s-helm/architecture-diagram.png",
+    "tags": ["Kubernetes", "Helm", "Helmfile", "Microservices", "Docker"],
+    "github": "https://github.com/ibrarmunircoder/online-shop-microservices-deployment-k8s-helm"
+  },
+  {
     "title": "Microservices application deployment on Kubernetes Cluster",
     "description": "Online Boutique is a cloud-first microservices demo application. The application is a web-based e-commerce app where users can browse items, add them to the cart, and purchase them.This project demonstrates how to deploy and run a microservices-based application on Kubernetes using production and security best practices.",
     "image": "/projects/microservice-k8s-kustomize/home-page.png",
