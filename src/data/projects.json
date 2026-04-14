@@ -16,6 +16,24 @@
     "github": "https://github.com/ibrarmunircoder/goal-share-go-web-app"
   },
   {
+    "title": "Food Fiesta - Cloud-Native Spring Boot App on AWS EKS using Terraform, GitOps & CI/CD",
+    "description": "The Food Fiesta project is a cloud-native, full-stack food ordering application built with Spring Boot and deployed to AWS EKS using a modern GitOps workflow. The project serves as a comprehensive demonstration of Infrastructure as Code (IaC) with Terraform, automated CI/CD via GitHub Actions, and progressive delivery using ArgoCD and Argo Rollouts.",
+    "image": "/projects/food-fiesta-k8s-eks/archiecture-diagram.png",
+    "tags": [
+      "Github Actions",
+      "Kubernetes",
+      "Terraform",
+      "Spring Boot",
+      "GitOps",
+      "ArgoCD",
+      "Argo Rollouts",
+      "Elastic Kubernetes Service (EKS)",
+      "Elastic Container Registry (ECR)",
+      "Docker"
+    ],
+    "github": "https://github.com/ibrarmunircoder/springboot-food-fiesta-k8s-terraform"
+  },
+  {
     "title": "AI BlogWriter & Scheduler",
     "description": "This Shopify application empowers merchants to automatically generate high-quality, SEO-optimized blog articles using their store’s product data. Designed for stores of all sizes, the app streamlines content marketing by transforming product information into engaging, search-friendly blog posts that drive organic traffic and improve search rankings.",
     "link": "https://apps.shopify.com/blog-writer-scheduler",
