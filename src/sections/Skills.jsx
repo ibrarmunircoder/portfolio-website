@@ -41,6 +41,9 @@ export const Skills = () => {
         "Jenkins",
         "GitHub Actions",
         "Shell Scripting",
+        "ArgoCD",
+        "Prometheus",
+        "Grafana"
       ],
     },
     {
