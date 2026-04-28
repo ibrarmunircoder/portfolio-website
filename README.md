@@ -10,3 +10,5 @@ A modern and fully responsive personal portfolio website built with **React.js**
 - Tailwind CSS
 - JavaScript (ES6+)
 - Responsive Design
+
+
