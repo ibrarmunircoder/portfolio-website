@@ -4,8 +4,8 @@ const experiences = [
   {
     period: "May 2023 – December 2025",
     role: "Full Stack Engineer",
-    company: "Cooliodev",
-    location: "California, US",
+    company: "WHBrowns",
+    location: "UK",
     achievements: [
       "Designed and managed a multi-AZ VPC architecture for a containerised Shopify public application",
       "Provisioned & controlled AWS infrastructure using CDK TypeScript, reducing deployment times from 3 hours to 10 minutes",

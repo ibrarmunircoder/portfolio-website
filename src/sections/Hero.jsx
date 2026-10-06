@@ -56,7 +56,7 @@ export const Hero = () => {
             <div className="animate-fade-in">
               <div className="inline-flex items-center gap-2.5 px-4 py-2 rounded-full glass border border-primary/20 text-sm text-primary-light font-medium">
                 <span className="w-1.5 h-1.5 bg-primary rounded-full animate-pulse" />
-                Software Engineer · AWS Cloud Engineer
+                Software Engineer
               </div>
             </div>
 
@@ -68,7 +68,7 @@ export const Hero = () => {
                 <span className="glow-text">Munir</span>
               </h1>
               <p className="text-base text-muted-foreground max-w-lg leading-relaxed animate-fade-in animation-delay-200">
-                A software engineer based in Pakistan, with 5+ years of experience building secure and scalable cloud-native web applications by leveraging AWS services. Skilled in Infrastructure as Code (AWS CDK, Serverless Framework), CI/CD automation, and full-stack development with React, Typescript, NodeJS and NestJS. Seeking to leverage my expertise in cloud architecture and DevOps practices in an AWS Cloud Engineer role focused on designing resilient, scalable infrastructure solutions.
+                A software engineer based in Pakistan, with 3+ years of experience building secure and scalable cloud-native web applications by leveraging AWS services. Skilled in Infrastructure as Code (AWS CDK, Serverless Framework), CI/CD automation, and full-stack development with React, Typescript, NodeJS and NestJS. Seeking to leverage my expertise in cloud architecture and DevOps practices in an AWS Cloud Engineer role focused on designing resilient, scalable infrastructure solutions.
               </p>
             </div>
 
@@ -133,7 +133,7 @@ export const Hero = () => {
 
               {/* Stats Badge */}
               <div className="absolute -top-4 -left-4 glass border border-border rounded-2xl px-4 py-3 animate-float animation-delay-500 shadow-xl">
-                <div className="text-2xl font-extrabold gradient-text">5+</div>
+                <div className="text-2xl font-extrabold gradient-text">3+</div>
                 <div className="text-xs text-muted-foreground mt-0.5">Years Exp.</div>
               </div>
             </div>
